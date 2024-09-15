@@ -19,6 +19,8 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grant write permission to push changes
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -43,7 +45,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: output
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
