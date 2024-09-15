@@ -64,4 +64,4 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Balmukund-01/Balmukund-01/output/snake.svg" alt="Snake animation" />
 </div>
 -->
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Balmukund-01/Balmukund-01/blob/output/github-contribution-grid-snake.gif)
