@@ -59,8 +59,9 @@ Here are some ideas to get you started:
 <br> <br>
 
 ### 🐍 Snake Game Animation
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Balmukund-01/Balmukund-01/output/snake.svg" alt="Snake animation" />
 </div>
+-->
 
