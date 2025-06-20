@@ -76,11 +76,10 @@ Here are some ideas to get you started:
 
 </div>
 
+### 🐍 Contribution Snake
 
-### 🐍 Snake Game Animation
-<!--
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Balmukund-01/Balmukund-01/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Balmukund-01/Balmukund-01/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
--->
-![snake gif](https://github.com/Balmukund-01/Balmukund-01/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Balmukund-01/Balmukund-01/blob/output/github-contribution-grid-snake.svg) -->
+
