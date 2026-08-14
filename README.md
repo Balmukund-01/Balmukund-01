@@ -21,6 +21,30 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=balmukund-01&label=Profile%20views&color=0e75b6&style=flat" alt="balmukund-01" /> </p>
 
+<p align="center">
+
+  <a href="https://github.com/Balmukund-01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/balmukund-shukla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://mukund-shukla.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="https://leetcode.com/u/shuklabalmukund0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1-Z1fm3OTVCPFFa18z9Bl2iSQVcCwgrYZ/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+
+</p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balmukund-01" alt="balmukund-01" /></a> </p>
 &nbsp; &nbsp;
 - 🌱 I’m currently learning *Python and exploring AI/ML*.
