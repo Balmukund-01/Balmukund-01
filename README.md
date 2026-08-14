@@ -153,18 +153,27 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <!-- Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Balmukund-01&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-  <!-- GitHub Stats -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Balmukund-01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <!-- Top Languages -->
-  <br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balmukund-01&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-
-</div>
+<table align="center" width="100%">
+    <tr>
+        <td colspan="2" align="center">
+            <img width=700 src="https://github-readme-streak-stats.herokuapp.com/?user=Balmukund-01&count_private=true&theme=react&border_radius=10" alt="Balmukund Shukla GitHub Streak"/> <!-- Streak Stats -->
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <img width="100%"
+       src="https://github-stats-extended.vercel.app/api?username=Balmukund-01&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+       alt=" Balmukund Shukla GitHub Stats"/>
+       </td> <!-- GitHub Stats -->
+       <td align="center" width="50%">
+           <img width="100%"
+       src="https://github-stats-extended.vercel.app/api/top-langs?username=Balmukund-01&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"
+       alt="Balmukund Shukla Top Languages"/> <!-- Top Languages -->
+       </td>
+    </tr>
+</table>
+<br/>
 
 ### 🐍 Contribution Snake
 
