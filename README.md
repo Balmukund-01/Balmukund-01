@@ -204,3 +204,8 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Balmukund-01/Balmukund-01/blob/output/github-snake-dark.svg)
 <!-- ![snake gif](https://github.com/Balmukund-01/Balmukund-01/blob/output/github-contribution-grid-snake.svg) -->
 
+<br>
+
+<p align="center">
+  <b>🧠 Learn • 💻 Build • 🚀 Ship • 🔁 Repeat</b>
+</p>
